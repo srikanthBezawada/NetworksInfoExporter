@@ -12,7 +12,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cytoscape</groupId>
-	<artifactId>NetInfo-app</artifactId>
+	<artifactId>NetworksInfo-writer</artifactId>
 	<version>1.0</version>
 
 	<name>NetworksInfo-writer</name>
